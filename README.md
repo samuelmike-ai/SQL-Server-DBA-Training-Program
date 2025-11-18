@@ -37,5 +37,5 @@ This program includes everything needed to become job-ready for SQL Server DBA p
 
 ---
 **License:** MIT License  
-**Created by:** MiniMax Agent  
+**Created by:** Samuel Mike
 **Version:** 1.0
